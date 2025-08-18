@@ -49,13 +49,12 @@ I’m a final-year Computer Science student passionate about building scalable a
 ## 🚀 Current Focus
 - Full Stack + AI integration projects  
 - AWS-based cloud apps  
-- Preparing for **GATE 2026**  
 - Building projects around **real-world problems** like women’s safety & car safety  
 
 ---
 
 ## 🌱 Fun Fact
-I’m curious, a bit of an emotional fool ❤️, and I love learning by building!  
+I’m curious, eager to learn ❤️, and I love learning by building!  
 
 ---
 
