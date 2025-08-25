@@ -24,7 +24,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/harshitasrivastava2481)  
+- 💼 [LinkedIn](https://www.linkedin.com/harshita2481)  
 - ✨ [GitHub](https://github.com/harshita2481)  
 
 ---
